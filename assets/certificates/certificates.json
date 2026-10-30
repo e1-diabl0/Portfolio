@@ -1,0 +1,371 @@
+[
+ {
+  "file": "01-ijso-2024-bronze.jpg",
+  "title": "IJSO 2024 · Bronze medal",
+  "caption": "International Junior Science Olympiad, Bucharest, Romania. I represented Uganda at the 21st IJSO and won a bronze medal.",
+  "date": "Dec 2024",
+  "group": "featured",
+  "page": 24,
+  "portrait": false
+ },
+ {
+  "file": "02-infomatrix-asia-2025-silver.jpg",
+  "title": "Infomatrix Asia 2025 · Silver medal",
+  "caption": "Hardware Control category, Astana, Kazakhstan, for the Automated Outrigger System I built with Akshay Chakraborty.",
+  "date": "Mar 2025",
+  "group": "featured",
+  "page": 28,
+  "portrait": true
+ },
+ {
+  "file": "03-infomatrix-asia-2025-grant.jpg",
+  "title": "Infomatrix Asia 2025 · University grant award",
+  "caption": "Awarded to winners by Almaty University of Power Engineering and Telecommunications: a grant offering the chance to study there.",
+  "date": "2025",
+  "group": "featured",
+  "page": 41,
+  "portrait": false
+ },
+ {
+  "file": "04-fiso-2023-silver.jpg",
+  "title": "FISO 2023 · Silver award, international round",
+  "caption": "Future Intelligence Students Olympiad, Science category. Silver in the international round.",
+  "date": "Mar 2023",
+  "group": "featured",
+  "page": 14,
+  "portrait": false
+ },
+ {
+  "file": "05-istem-olympiad-2025-honourable-mention.jpg",
+  "title": "International STEM Olympiad 2025 · Honourable mention",
+  "caption": "Final round of the 5th International STEM Olympiad, Science category, after qualifying in the February exam.",
+  "date": "Feb 2025",
+  "group": "featured",
+  "page": 31,
+  "portrait": false
+ },
+ {
+  "file": "06-owlypia-2025-1st-team.jpg",
+  "title": "Owlypia 2025 · 1st place, overall best team",
+  "caption": "Kampala Local Round, OWLYS category (ages 15–18), with team WCKED.",
+  "date": "Apr 2025",
+  "group": "awards",
+  "page": 34,
+  "portrait": false
+ },
+ {
+  "file": "07-owlypia-2025-3rd-individual.jpg",
+  "title": "Owlypia 2025 · 3rd place, overall best individual",
+  "caption": "Kampala Local Round, OWLYS category (ages 15–18).",
+  "date": "Apr 2025",
+  "group": "awards",
+  "page": 33,
+  "portrait": true
+ },
+ {
+  "file": "08-owlypia-2025-gold-science.jpg",
+  "title": "Owlypia 2025 · Gold, Science and Technology",
+  "caption": "Certificate of achievement for academic performance in Science and Technology, Kampala Local Round.",
+  "date": "Apr 2025",
+  "group": "awards",
+  "page": 32,
+  "portrait": false
+ },
+ {
+  "file": "09-owlypia-2023-3rd-team.jpg",
+  "title": "Owlypia 2023 · 3rd place, overall best team",
+  "caption": "Kampala Local Round, OWLYS category (ages 15–18), with team MI6.",
+  "date": "Nov 2023",
+  "group": "awards",
+  "page": 22,
+  "portrait": false
+ },
+ {
+  "file": "10-mathmania-2026-internal-achievement.jpg",
+  "title": "Mathmania 2026 · Certificate of achievement",
+  "caption": "GISU Mathematics Internal Puzzle Contest, Pre-Senior category (Year 11).",
+  "date": "Nov 2025",
+  "group": "awards",
+  "page": 37,
+  "portrait": false
+ },
+ {
+  "file": "11-mathmania-2022-3rd-place.jpg",
+  "title": "Mathmania 2022 · Third place",
+  "caption": "Mathematics Puzzle Contest at Galaxy International School Uganda.",
+  "date": "Dec 2022",
+  "group": "awards",
+  "page": 15,
+  "portrait": false
+ },
+ {
+  "file": "12-ifcd-2019-poetry-2nd-runner-up.jpg",
+  "title": "IFCD 2019 · Poetry, 2nd runner-up",
+  "caption": "International Festival of Cultural Diversity poetry competition, Upper Primary.",
+  "date": "Nov 2019",
+  "group": "awards",
+  "page": 5,
+  "portrait": false
+ },
+ {
+  "file": "13-ijso-2024-participation.jpg",
+  "title": "IJSO 2024 · Participation",
+  "caption": "Uganda delegation, 21st IJSO in Bucharest, Romania.",
+  "date": "Dec 2024",
+  "group": "participation",
+  "page": 25,
+  "portrait": false
+ },
+ {
+  "file": "14-ijso-2024-appreciation.jpg",
+  "title": "IJSO 2024 · Certificate of appreciation",
+  "caption": "Given to delegates at IJSO 2024, Bucharest.",
+  "date": "Dec 2024",
+  "group": "participation",
+  "page": 38,
+  "portrait": false
+ },
+ {
+  "file": "15-infomatrix-asia-2025-participation.jpg",
+  "title": "Infomatrix Asia 2025 · Participation",
+  "caption": "International project competition, Astana, Kazakhstan.",
+  "date": "Mar 2025",
+  "group": "participation",
+  "page": 27,
+  "portrait": true
+ },
+ {
+  "file": "16-fiso-2023-international-round.jpg",
+  "title": "FISO 2023 · International round",
+  "caption": "Future Intelligence Students Olympiad, Science category.",
+  "date": "Mar 2023",
+  "group": "participation",
+  "page": 17,
+  "portrait": false
+ },
+ {
+  "file": "17-istem-olympiad-2025-qualification.jpg",
+  "title": "International STEM Olympiad 2025 · Qualification exam",
+  "caption": "Qualified for the final round, Science category.",
+  "date": "Feb 2025",
+  "group": "participation",
+  "page": 30,
+  "portrait": false
+ },
+ {
+  "file": "18-german-math-olympiad-2025.jpg",
+  "title": "International German Math Olympiad 2025",
+  "caption": "Preliminary round.",
+  "date": "Nov 2025",
+  "group": "participation",
+  "page": 39,
+  "portrait": false
+ },
+ {
+  "file": "19-fll-submerged-national.jpg",
+  "title": "FIRST LEGO League · SUBMERGED national competition",
+  "caption": "2nd National Competition, Uganda, with the robotics team I led.",
+  "date": "2024–25",
+  "group": "participation",
+  "page": 26,
+  "portrait": false
+ },
+ {
+  "file": "20-mathmania-2026-annual.jpg",
+  "title": "Mathmania 2026 · Annual Puzzle Contest",
+  "caption": "Pre-Senior category, organised with Ontario Tech University.",
+  "date": "Mar 2026",
+  "group": "participation",
+  "page": 40,
+  "portrait": false
+ },
+ {
+  "file": "21-gisu-steam-expo-2025.jpg",
+  "title": "GISU STEAM Expo 2025",
+  "caption": "School science, technology, engineering, art and maths expo.",
+  "date": "Jun 2025",
+  "group": "participation",
+  "page": 35,
+  "portrait": false
+ },
+ {
+  "file": "22-gisu-stem-expo-2023.jpg",
+  "title": "GISU STEM Expo 2023",
+  "caption": "School STEM expo.",
+  "date": "May 2023",
+  "group": "participation",
+  "page": 9,
+  "portrait": false
+ },
+ {
+  "file": "23-mathmania-2023-internal.jpg",
+  "title": "Mathmania 2023 · Internal contest",
+  "caption": "Mathematics Puzzle Contest.",
+  "date": "Nov 2023",
+  "group": "participation",
+  "page": 23,
+  "portrait": false
+ },
+ {
+  "file": "24-mathmania-2023-junior.jpg",
+  "title": "Mathmania 2023 · Junior category",
+  "caption": "Mathematics Puzzle Contest.",
+  "date": "Mar 2023",
+  "group": "participation",
+  "page": 16,
+  "portrait": false
+ },
+ {
+  "file": "25-owlypia-2022-nov.jpg",
+  "title": "Owlypia 2022 · Kampala Local Round",
+  "caption": "Completed all the challenges.",
+  "date": "Nov 2022",
+  "group": "participation",
+  "page": 11,
+  "portrait": false
+ },
+ {
+  "file": "26-owlypia-2022-feb.jpg",
+  "title": "Owlypia 2022 · Intellectuals’ Week",
+  "caption": "Kampala round; completed all the challenges.",
+  "date": "Feb 2022",
+  "group": "participation",
+  "page": 4,
+  "portrait": true
+ },
+ {
+  "file": "27-delf-a1-french.jpg",
+  "title": "DELF A1 · French diploma",
+  "caption": "Official French-language diploma from France Éducation International.",
+  "date": "Jul 2024",
+  "group": "other",
+  "page": 36,
+  "portrait": false
+ },
+ {
+  "file": "28-alliance-francaise-a1.jpg",
+  "title": "Alliance Française Kampala · A1 level",
+  "caption": "Attestation of A1 French level.",
+  "date": "",
+  "group": "other",
+  "page": 21,
+  "portrait": false
+ },
+ {
+  "file": "29-abrsm-grade-3-piano.jpg",
+  "title": "ABRSM · Grade 3 piano, distinction",
+  "caption": "Associated Board of the Royal Schools of Music, Grade 3 Piano Performance, passed with distinction.",
+  "date": "2024",
+  "group": "other",
+  "page": null,
+  "portrait": true
+ },
+ {
+  "file": "30-abrsm-grade-2-piano.jpg",
+  "title": "ABRSM · Grade 2 piano, merit",
+  "caption": "Associated Board of the Royal Schools of Music, Grade 2 Piano Performance, passed with merit.",
+  "date": "2022",
+  "group": "other",
+  "page": null,
+  "portrait": true
+ },
+ {
+  "file": "31-abrsm-grade-1-piano.jpg",
+  "title": "ABRSM · Grade 1 piano, merit",
+  "caption": "Associated Board of the Royal Schools of Music, Grade 1 Piano Performance, passed with merit.",
+  "date": "2022",
+  "group": "other",
+  "page": null,
+  "portrait": true
+ },
+ {
+  "file": "32-young-writers-2019.jpg",
+  "title": "Young Writers 2019 · Talent for Writing",
+  "caption": "Original creative writing selected for publication in a Young Writers anthology.",
+  "date": "2019",
+  "group": "earlier",
+  "page": 12,
+  "portrait": false
+ },
+ {
+  "file": "33-stemug-expo-2018.jpg",
+  "title": "STEM Expo 2018",
+  "caption": "STEMUG national STEM expo.",
+  "date": "Apr 2018",
+  "group": "earlier",
+  "page": 8,
+  "portrait": false
+ },
+ {
+  "file": "34-stemug-expo-2017.jpg",
+  "title": "STEM Expo 2017",
+  "caption": "STEMUG national STEM expo.",
+  "date": "May 2017",
+  "group": "earlier",
+  "page": 7,
+  "portrait": false
+ },
+ {
+  "file": "35-spelling-bee-2019.jpg",
+  "title": "Spelling Bee 2019",
+  "caption": "Annual Spelling Bee competition.",
+  "date": "Jun 2019",
+  "group": "earlier",
+  "page": 3,
+  "portrait": false
+ },
+ {
+  "file": "36-iflc-2018-short-movie.jpg",
+  "title": "IFLC 2018 · Short movie competition",
+  "caption": "Outstanding performance, International Festival of Language and Culture.",
+  "date": "Dec 2018",
+  "group": "earlier",
+  "page": 2,
+  "portrait": false
+ },
+ {
+  "file": "37-gisu-chess-2018.jpg",
+  "title": "GISU Primary Chess Competition",
+  "caption": "Participation.",
+  "date": "Nov 2018",
+  "group": "earlier",
+  "page": 6,
+  "portrait": true
+ },
+ {
+  "file": "38-lego-digital-designer.jpg",
+  "title": "LEGO Digital Designer",
+  "caption": "GISU STEM course in LEGO Digital Designer.",
+  "date": "",
+  "group": "earlier",
+  "page": 1,
+  "portrait": false
+ },
+ {
+  "file": "39-maths-award-heritage.jpg",
+  "title": "Maths award",
+  "caption": "Heritage International School.",
+  "date": "",
+  "group": "earlier",
+  "page": 20,
+  "portrait": false
+ },
+ {
+  "file": "40-vasc-little-scientist-2015.jpg",
+  "title": "Little Scientist module",
+  "caption": "Vikram A Sarabhai Community Science Centre summer programme, Ahmedabad.",
+  "date": "2015",
+  "group": "earlier",
+  "page": 19,
+  "portrait": true
+ },
+ {
+  "file": "41-vasc-science-hobby-2015.jpg",
+  "title": "Science Hobby Workshop",
+  "caption": "Vikram A Sarabhai Community Science Centre summer programme, Ahmedabad.",
+  "date": "2015",
+  "group": "earlier",
+  "page": 18,
+  "portrait": true
+ }
+]

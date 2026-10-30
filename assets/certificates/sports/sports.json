@@ -1,0 +1,182 @@
+[
+ {
+  "file": "01-interhouse-soccer-2024.jpg",
+  "title": "Interhouse soccer · Most Hardworking Attacker",
+  "caption": "Certificate of excellence, 2024–25 GISU Interhouse Soccer Competition.",
+  "date": "Oct 2024",
+  "group": "featured",
+  "source": "sports p17",
+  "portrait": false
+ },
+ {
+  "file": "02-sports-day-2025-100m.jpg",
+  "title": "Sports Day 2025 · 6th place, 100 m",
+  "caption": "GISU Sports Day.",
+  "date": "Feb 2025",
+  "group": "featured",
+  "source": "sports p18",
+  "portrait": false
+ },
+ {
+  "file": "03-sports-day-2024-3000m.jpg",
+  "title": "Sports Day 2024 · 3000 m race",
+  "caption": "For dedication and perseverance.",
+  "date": "Feb 2024",
+  "group": "featured",
+  "source": "sports p16",
+  "portrait": false
+ },
+ {
+  "file": "04-issak-athletics-2022.jpg",
+  "title": "ISSAK Athletics · U13 team",
+  "caption": "International Schools Sports Association Kampala.",
+  "date": "Dec 2022",
+  "group": "featured",
+  "source": "sports p11",
+  "portrait": false
+ },
+ {
+  "file": "05-taekwondo-yellow-2022.jpg",
+  "title": "Taekwondo · yellow belt",
+  "caption": "IYF Taekwondo Club.",
+  "date": "Dec 2022",
+  "group": "taekwondo",
+  "source": "sports p12",
+  "portrait": false
+ },
+ {
+  "file": "06-taekwondo-yellow-2023.jpg",
+  "title": "Taekwondo · yellow belt",
+  "caption": "IYF Taekwondo Club.",
+  "date": "Jul 2023",
+  "group": "taekwondo",
+  "source": "sports p13",
+  "portrait": false
+ },
+ {
+  "file": "07-taekwondo-orange-2023.jpg",
+  "title": "Taekwondo · orange belt",
+  "caption": "IYF Taekwondo Club.",
+  "date": "Aug 2023",
+  "group": "taekwondo",
+  "source": "sports p15",
+  "portrait": false
+ },
+ {
+  "file": "08-taekwondo-green-2023.jpg",
+  "title": "Taekwondo · green belt",
+  "caption": "IYF Taekwondo Club.",
+  "date": "Sep 2023",
+  "group": "taekwondo",
+  "source": "sports p14",
+  "portrait": false
+ },
+ {
+  "file": "09-taekwondo-blue-2024.jpg",
+  "title": "Taekwondo · blue belt",
+  "caption": "IYF Taekwondo Club.",
+  "date": "Jan 2024",
+  "group": "taekwondo",
+  "source": "sports p19",
+  "portrait": false
+ },
+ {
+  "file": "10-taekwondo-red-2025.jpg",
+  "title": "Taekwondo · red belt",
+  "caption": "IYF Taekwondo Club.",
+  "date": "May 2025",
+  "group": "taekwondo",
+  "source": "sports p21",
+  "portrait": false
+ },
+ {
+  "file": "11-gisu-marathon-2022.jpg",
+  "title": "GISU Marathon 2022",
+  "caption": "Run for the physically handicapped.",
+  "date": "Sep 2022",
+  "group": "more",
+  "source": "sports p9",
+  "portrait": false
+ },
+ {
+  "file": "12-sports-day-2019.jpg",
+  "title": "Sports Day 2019 · outstanding performance",
+  "caption": "Neptune house.",
+  "date": "Mar 2019",
+  "group": "more",
+  "source": "sports p4",
+  "portrait": false
+ },
+ {
+  "file": "13-issak-basketball-2019.jpg",
+  "title": "ISSAK Basketball",
+  "caption": "International School Sports’ Association Kampala.",
+  "date": "Dec 2019",
+  "group": "more",
+  "source": "sports p3",
+  "portrait": false
+ },
+ {
+  "file": "14-basketball-club-2019.jpg",
+  "title": "Basketball Club",
+  "caption": "Club certificate of achievement.",
+  "date": "Jun 2019",
+  "group": "more",
+  "source": "sports p5",
+  "portrait": true
+ },
+ {
+  "file": "15-football-club-2019.jpg",
+  "title": "Football Club",
+  "caption": "Club certificate of achievement.",
+  "date": "Dec 2019",
+  "group": "more",
+  "source": "sports p2",
+  "portrait": true
+ },
+ {
+  "file": "16-table-tennis-2017.jpg",
+  "title": "Table Tennis · Most Promising Junior Player",
+  "caption": "",
+  "date": "Dec 2017",
+  "group": "earlier",
+  "source": "sports p8",
+  "portrait": false
+ },
+ {
+  "file": "17-basketball-football-tournament-2018.jpg",
+  "title": "Basketball and Football Tournament",
+  "caption": "",
+  "date": "Oct 2018",
+  "group": "earlier",
+  "source": "sports p1",
+  "portrait": true
+ },
+ {
+  "file": "18-swimming-gala-2018.jpg",
+  "title": "GISU Swimming Gala",
+  "caption": "",
+  "date": "Dec 2018",
+  "group": "earlier",
+  "source": "academics p2",
+  "portrait": false
+ },
+ {
+  "file": "19-fun-swimming-day-2016.jpg",
+  "title": "Fun Swimming Day Award",
+  "caption": "Year 2.",
+  "date": "Dec 2016",
+  "group": "earlier",
+  "source": "sports p7",
+  "portrait": false
+ },
+ {
+  "file": "20-house-spirit-2016.jpg",
+  "title": "House Spirit Award · Neptune House",
+  "caption": "House award for sportsmanship.",
+  "date": "Feb 2016",
+  "group": "earlier",
+  "source": "sports p6",
+  "portrait": false
+ }
+]

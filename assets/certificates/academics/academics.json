@@ -1,0 +1,542 @@
+[
+ {
+  "file": "00a-igcse-results-2026.jpg",
+  "title": "Cambridge IGCSE results · six A*, two A",
+  "caption": "June 2026: A* in Mathematics (96), Physics (94), Chemistry (92), ICT (91), Global Perspectives (91) and French (90); A in Additional Mathematics (87) and First Language English (84). Provisional online statement.",
+  "date": "Jun 2026",
+  "group": "results",
+  "source": "Cambridge",
+  "portrait": false
+ },
+ {
+  "file": "00b-checkpoint-lower-secondary-2024.jpg",
+  "title": "Cambridge Lower Secondary Checkpoint · 50/50 in all three",
+  "caption": "Outstanding (50/50) in English, Mathematics and Science, the highest possible score in each.",
+  "date": "May 2024",
+  "group": "results",
+  "source": "Cambridge",
+  "portrait": true
+ },
+ {
+  "file": "00c-checkpoint-global-perspectives-gold.jpg",
+  "title": "Checkpoint Global Perspectives · Gold",
+  "caption": "Highest grade for my 1,000-word research report, assessing research, analysis, evaluation, reflection and communication.",
+  "date": "May 2024",
+  "group": "results",
+  "source": "Cambridge",
+  "portrait": false
+ },
+ {
+  "file": "00d-checkpoint-mathematics-report.jpg",
+  "title": "Checkpoint Mathematics · strand report",
+  "caption": "Full marks in every strand except Algebra (45/50). Teaching group average: 32.",
+  "date": "May 2024",
+  "group": "results",
+  "source": "Cambridge",
+  "portrait": true
+ },
+ {
+  "file": "00e-checkpoint-science-report.jpg",
+  "title": "Checkpoint Science · strand report",
+  "caption": "Full marks in every strand except Physics (49/50). Teaching group average: 36.",
+  "date": "May 2024",
+  "group": "results",
+  "source": "Cambridge",
+  "portrait": true
+ },
+ {
+  "file": "00f-checkpoint-english-report.jpg",
+  "title": "Checkpoint English · strand report",
+  "caption": "Reading 46/50 and Writing 50/50. Teaching group average: 37.",
+  "date": "May 2024",
+  "group": "results",
+  "source": "Cambridge",
+  "portrait": true
+ },
+ {
+  "file": "01-academic-distinction-y11.jpg",
+  "title": "Academic Distinction Award · Year 11",
+  "caption": "GISU Academic Awards, 2025–26 academic year.",
+  "date": "Jun 2026",
+  "group": "featured",
+  "source": "academics p56",
+  "portrait": false
+ },
+ {
+  "file": "02-best-in-academics-y10.jpg",
+  "title": "Best in Academics · Year 10",
+  "caption": "GISU Academic Awards, 2024–25 academic year.",
+  "date": "Jun 2025",
+  "group": "featured",
+  "source": "academics p57",
+  "portrait": false
+ },
+ {
+  "file": "03-best-in-academics-y9.jpg",
+  "title": "Best in Academics · Year 9",
+  "caption": "GISU Academic Awards, 2023–24 academic year.",
+  "date": "Jun 2024",
+  "group": "featured",
+  "source": "academics p55",
+  "portrait": false
+ },
+ {
+  "file": "04-cambridge-primary-checkpoint.jpg",
+  "title": "Cambridge Primary Checkpoint · 6.0 / 6.0 in all three",
+  "caption": "Full marks in English, Mathematics and Science, Cambridge Assessment International Education.",
+  "date": "May 2021",
+  "group": "featured",
+  "source": "academics p4",
+  "portrait": true
+ },
+ {
+  "file": "05-excellence-mathematics-2024.jpg",
+  "title": "Excellence in Mathematics",
+  "caption": "Subject award, Year 9.",
+  "date": "Jun 2024",
+  "group": "subjects",
+  "source": "academics p52",
+  "portrait": false
+ },
+ {
+  "file": "06-excellence-science-2024.jpg",
+  "title": "Excellence in Science",
+  "caption": "Subject award, Year 9.",
+  "date": "Jun 2024",
+  "group": "subjects",
+  "source": "academics p44",
+  "portrait": false
+ },
+ {
+  "file": "07-excellence-ict-2024.jpg",
+  "title": "Excellence in ICT",
+  "caption": "Information and Computing Technology subject award, Year 9.",
+  "date": "Jun 2024",
+  "group": "subjects",
+  "source": "academics p48",
+  "portrait": false
+ },
+ {
+  "file": "08-best-project-science-2024.jpg",
+  "title": "Best Project · Science",
+  "caption": "Best science project of the year, Year 9.",
+  "date": "Jun 2024",
+  "group": "subjects",
+  "source": "academics p53",
+  "portrait": false
+ },
+ {
+  "file": "09-best-project-gp-2024.jpg",
+  "title": "Best Project · Global Perspectives and Research",
+  "caption": "Best project of the year, Year 9.",
+  "date": "Jun 2024",
+  "group": "subjects",
+  "source": "academics p49",
+  "portrait": false
+ },
+ {
+  "file": "10-excellence-french-2024.jpg",
+  "title": "Excellence in French",
+  "caption": "Subject award, Year 9.",
+  "date": "Jun 2024",
+  "group": "subjects",
+  "source": "academics p45",
+  "portrait": false
+ },
+ {
+  "file": "11-excellence-english-2024.jpg",
+  "title": "Excellence in English",
+  "caption": "Subject award, Year 9.",
+  "date": "Jun 2024",
+  "group": "subjects",
+  "source": "academics p51",
+  "portrait": false
+ },
+ {
+  "file": "12-best-project-music-2024.jpg",
+  "title": "Best Project · Music",
+  "caption": "Best music project of the year, Year 9.",
+  "date": "Jun 2024",
+  "group": "subjects",
+  "source": "academics p47",
+  "portrait": false
+ },
+ {
+  "file": "13-excellence-pshe-2024.jpg",
+  "title": "Excellence in PSHE",
+  "caption": "Personal, Social and Health Education subject award, Year 9.",
+  "date": "Jun 2024",
+  "group": "subjects",
+  "source": "academics p43",
+  "portrait": false
+ },
+ {
+  "file": "14-excellence-foundation-2024.jpg",
+  "title": "Excellence in Foundation Courses",
+  "caption": "Subject award, Year 9.",
+  "date": "Jun 2024",
+  "group": "subjects",
+  "source": "academics p46",
+  "portrait": false
+ },
+ {
+  "file": "15-best-in-behaviour-y9.jpg",
+  "title": "Best in Behaviour · Year 9",
+  "caption": "GISU Academic Awards, 2023–24 academic year.",
+  "date": "Jun 2024",
+  "group": "subjects",
+  "source": "academics p54",
+  "portrait": false
+ },
+ {
+  "file": "16-academic-certificate-y8.jpg",
+  "title": "Academic certificate · Year 8",
+  "caption": "For exceptional dedication, perseverance and excellence in academic pursuits.",
+  "date": "Jun 2023",
+  "group": "subjects",
+  "source": "academics p40",
+  "portrait": false
+ },
+ {
+  "file": "17-best-gp-y8.jpg",
+  "title": "Best performance in Global Perspectives · Year 8",
+  "caption": "Subject award.",
+  "date": "Jun 2023",
+  "group": "subjects",
+  "source": "academics p42",
+  "portrait": false
+ },
+ {
+  "file": "18-best-art-y8.jpg",
+  "title": "Best performance in Art & Design · Year 8",
+  "caption": "Subject award.",
+  "date": "Jun 2023",
+  "group": "subjects",
+  "source": "academics p41",
+  "portrait": false
+ },
+ {
+  "file": "19-highest-grades-y7.jpg",
+  "title": "Academic Award · highest grades, Year 7",
+  "caption": "For attaining the highest academic grades, 2021–22.",
+  "date": "Jun 2022",
+  "group": "subjects",
+  "source": "academics p8",
+  "portrait": false
+ },
+ {
+  "file": "20-end-of-year-subjects-y7.jpg",
+  "title": "End of Year Award · best in 8 subjects, Year 7",
+  "caption": "English, Science, Foundation Courses, ICT, French, PSHE, Literature and Global Perspectives, 2021–22.",
+  "date": "Jun 2022",
+  "group": "subjects",
+  "source": "academics p9",
+  "portrait": false
+ },
+ {
+  "file": "21-end-of-year-projects-y7.jpg",
+  "title": "End of Year Award · best projects, Year 7",
+  "caption": "Best projects in Music, Art and Science, 2021–22.",
+  "date": "Jun 2022",
+  "group": "subjects",
+  "source": "academics p13",
+  "portrait": false
+ },
+ {
+  "file": "22-end-of-year-behaviour-y7.jpg",
+  "title": "End of Year Award · highest behaviour points, Year 7",
+  "caption": "2021–22 academic year.",
+  "date": "Jun 2022",
+  "group": "subjects",
+  "source": "academics p7",
+  "portrait": false
+ },
+ {
+  "file": "23-year-6-checkpoint-completion.jpg",
+  "title": "Year 6 completion · Cambridge Checkpoint",
+  "caption": "Completed the Cambridge Primary Checkpoint level.",
+  "date": "Mar 2022",
+  "group": "subjects",
+  "source": "academics p37",
+  "portrait": false
+ },
+ {
+  "file": "24-top-scholar-y6.jpg",
+  "title": "Top Scholar · Year 6, Term 1",
+  "caption": "",
+  "date": "Dec 2020",
+  "group": "earlier",
+  "source": "academics p35",
+  "portrait": false
+ },
+ {
+  "file": "25-pe-participation-y6.jpg",
+  "title": "Outstanding participation in PE",
+  "caption": "",
+  "date": "Dec 2020",
+  "group": "earlier",
+  "source": "academics p34",
+  "portrait": false
+ },
+ {
+  "file": "26-student-of-week-leadership-2020.jpg",
+  "title": "Student of the Week · leadership",
+  "caption": "For exemplifying leadership in and out of the classroom.",
+  "date": "Feb 2020",
+  "group": "earlier",
+  "source": "academics p33",
+  "portrait": false
+ },
+ {
+  "file": "27-student-of-week-reader-2020.jpg",
+  "title": "Student of the Week · avid reader",
+  "caption": "",
+  "date": "Feb 2020",
+  "group": "earlier",
+  "source": "academics p36",
+  "portrait": false
+ },
+ {
+  "file": "28-top-performing-y5-t1.jpg",
+  "title": "Top Performing Student · Year 5, Term 1",
+  "caption": "",
+  "date": "Dec 2019",
+  "group": "earlier",
+  "source": "academics p15",
+  "portrait": false
+ },
+ {
+  "file": "29-student-of-week-model-student-2019.jpg",
+  "title": "Student of the Week · model student",
+  "caption": "For continued leadership in and out of the classroom.",
+  "date": "Nov 2019",
+  "group": "earlier",
+  "source": "academics p12",
+  "portrait": false
+ },
+ {
+  "file": "30-french-poem-recital-2019.jpg",
+  "title": "French Poem Recital",
+  "caption": "“Depuis ce matin, il pleut!”",
+  "date": "Nov 2019",
+  "group": "earlier",
+  "source": "academics p11",
+  "portrait": false
+ },
+ {
+  "file": "31-hats-off-to-reading-2019.jpg",
+  "title": "Hats Off to Reading",
+  "caption": "Non-fiction book report.",
+  "date": "Nov 2019",
+  "group": "earlier",
+  "source": "academics p14",
+  "portrait": false
+ },
+ {
+  "file": "32-academic-excellence-y5.jpg",
+  "title": "Academic Excellence · Year 5",
+  "caption": "",
+  "date": "Oct 2019",
+  "group": "earlier",
+  "source": "academics p30",
+  "portrait": false
+ },
+ {
+  "file": "33-student-of-week-2019-aug.jpg",
+  "title": "Student of the Week · helping peers",
+  "caption": "",
+  "date": "Aug 2019",
+  "group": "earlier",
+  "source": "academics p32",
+  "portrait": false
+ },
+ {
+  "file": "34-top-performing-y4-t3.jpg",
+  "title": "Top Performing Student · Year 4, Term 3",
+  "caption": "",
+  "date": "Jun 2019",
+  "group": "earlier",
+  "source": "academics p38",
+  "portrait": false
+ },
+ {
+  "file": "35-class-award-behaviour-y4.jpg",
+  "title": "Class Award · exemplary behaviour, Year 4",
+  "caption": "",
+  "date": "Jun 2019",
+  "group": "earlier",
+  "source": "academics p3",
+  "portrait": false
+ },
+ {
+  "file": "36-student-of-week-2019-may.jpg",
+  "title": "Student of the Week · independent work",
+  "caption": "",
+  "date": "May 2019",
+  "group": "earlier",
+  "source": "academics p28",
+  "portrait": false
+ },
+ {
+  "file": "37-top-performing-y4-t2.jpg",
+  "title": "Top Performing Student · Year 4, Term 2",
+  "caption": "",
+  "date": "Mar 2019",
+  "group": "earlier",
+  "source": "academics p6",
+  "portrait": false
+ },
+ {
+  "file": "38-typing-competition-2019.jpg",
+  "title": "Typing competition · 1st runner-up",
+  "caption": "ICT Week, Year 3.",
+  "date": "Jan 2019",
+  "group": "earlier",
+  "source": "academics p1",
+  "portrait": false
+ },
+ {
+  "file": "39-student-of-week-2019-jan.jpg",
+  "title": "Student of the Week · always striving",
+  "caption": "",
+  "date": "Jan 2019",
+  "group": "earlier",
+  "source": "academics p29",
+  "portrait": false
+ },
+ {
+  "file": "40-top-performing-y4-t1.jpg",
+  "title": "Top Performing Student · Year 4, Term 1",
+  "caption": "",
+  "date": "Dec 2018",
+  "group": "earlier",
+  "source": "academics p5",
+  "portrait": false
+ },
+ {
+  "file": "41-student-of-week-2018-sep.jpg",
+  "title": "Student of the Week · dedicated and resilient",
+  "caption": "",
+  "date": "Sep 2018",
+  "group": "earlier",
+  "source": "academics p27",
+  "portrait": false
+ },
+ {
+  "file": "42-outstanding-achiever-y3.jpg",
+  "title": "Outstanding Achiever of the Year · Year 3",
+  "caption": "",
+  "date": "Jun 2018",
+  "group": "earlier",
+  "source": "academics p31",
+  "portrait": false
+ },
+ {
+  "file": "43-student-of-term-y3.jpg",
+  "title": "Student of the Term · Year 3",
+  "caption": "",
+  "date": "Dec 2017",
+  "group": "earlier",
+  "source": "academics p26",
+  "portrait": false
+ },
+ {
+  "file": "44-top-academician-y3.jpg",
+  "title": "Top Academician · Year 3, Term 1",
+  "caption": "",
+  "date": "Dec 2017",
+  "group": "earlier",
+  "source": "academics p25",
+  "portrait": false
+ },
+ {
+  "file": "45-math-wizard-y3.jpg",
+  "title": "Math Wizard · Year 3",
+  "caption": "",
+  "date": "Dec 2017",
+  "group": "earlier",
+  "source": "academics p39",
+  "portrait": false
+ },
+ {
+  "file": "46-best-student-y2.jpg",
+  "title": "Best Student · Year 2, Term 2",
+  "caption": "",
+  "date": "Mar 2017",
+  "group": "earlier",
+  "source": "academics p16",
+  "portrait": false
+ },
+ {
+  "file": "47-giant-project-y2.jpg",
+  "title": "Academic Award · giant project work, Year 2",
+  "caption": "",
+  "date": "Jun 2017",
+  "group": "earlier",
+  "source": "academics p17",
+  "portrait": false
+ },
+ {
+  "file": "48-excellent-performance-y2.jpg",
+  "title": "Academic Award · excellent performance, Year 2",
+  "caption": "",
+  "date": "Jun 2017",
+  "group": "earlier",
+  "source": "academics p18",
+  "portrait": false
+ },
+ {
+  "file": "49-best-in-french-y2.jpg",
+  "title": "Academic Award · best student in French, Year 2",
+  "caption": "",
+  "date": "Jun 2017",
+  "group": "earlier",
+  "source": "academics p19",
+  "portrait": false
+ },
+ {
+  "file": "50-excellent-performance-y1.jpg",
+  "title": "Excellent performance · Year 1",
+  "caption": "",
+  "date": "Jun 2016",
+  "group": "earlier",
+  "source": "academics p20",
+  "portrait": false
+ },
+ {
+  "file": "51-french-y1.jpg",
+  "title": "Excellent performance in French · Year 1",
+  "caption": "",
+  "date": "Jun 2016",
+  "group": "earlier",
+  "source": "academics p21",
+  "portrait": false
+ },
+ {
+  "file": "52-computer-y1.jpg",
+  "title": "Excellent performance in Computer · Year 1",
+  "caption": "",
+  "date": "Jun 2016",
+  "group": "earlier",
+  "source": "academics p22",
+  "portrait": false
+ },
+ {
+  "file": "53-art-y1.jpg",
+  "title": "Excellent performance in Art · Year 1",
+  "caption": "",
+  "date": "Jun 2016",
+  "group": "earlier",
+  "source": "academics p23",
+  "portrait": false
+ },
+ {
+  "file": "54-excellence-in-performance-y1.jpg",
+  "title": "Excellence in Performance Award · Year 1",
+  "caption": "",
+  "date": "Dec 2015",
+  "group": "earlier",
+  "source": "academics p24",
+  "portrait": false
+ }
+]
